@@ -2,5 +2,5 @@
 #CSCI3308-lab5-temp
 
 Kayla Gehring
-Partner: Sam Bennetts
+Partner Name: Sam Bennetts
 CSCI 3308, Spring 2018, Lab 5
